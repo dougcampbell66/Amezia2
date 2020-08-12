@@ -1453,6 +1453,7 @@
     <Content Include="dist\ui-typography.html" />
     <Content Include="dist\ui-video.html" />
     <Content Include="gulpfile.js" />
+    <Content Include="HtmlPage1.html" />
     <Content Include="src\advanced-clipboard.html" />
     <Content Include="src\advanced-highlight.html" />
     <Content Include="src\advanced-lightbox.html" />
